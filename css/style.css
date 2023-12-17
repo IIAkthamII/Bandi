@@ -35,10 +35,6 @@ font-family: 'Roboto', sans-serif;
 .navbar {
     background-color: var(--dark-color);
 }
-.navbar .navbar-nav .nav-link {  
-    color: white;
-
-}
 .navbar .navbar-nav .nav-link.active,
 .navbar .navbar-nav .nav-link:focus,
 .navbar .navbar-nav .nav-link:hover {
@@ -49,9 +45,6 @@ font-family: 'Roboto', sans-serif;
 }
 .navbar .search svg {
     color: var(--green-color);
-}
-.navbar .navbar-toggler {
-    color: white;
 }
 .navbar .navbar-toggler:focus{
     box-shadow: none;
@@ -173,8 +166,5 @@ font-family: 'Roboto', sans-serif;
 .footer .contact ul svg {
     width: 20px;
     height: 20px;
-}
-.contact .btn.main-btn {
-    color: white;
 }
 /* End Footer  */
